@@ -69,14 +69,4 @@
     <li>Users can perform their own analysis using the dataset or build on the insights provided in the visual report.</li>
     <li>Additional insights and suggestions can be customized based on further findings.</li>
 </ul>
-<h2>Engaging Points for GitHub README</h2>
-<ul>
-    <li><strong>Project Badges:</strong> Add badges for build status, license, and other relevant information.</li>
-    <li><strong>Clear Structure:</strong> Organize the README with headings and subheadings for easy navigation.</li>
-    <li><strong>Visuals:</strong> Include screenshots of key visualizations to make the README visually appealing.</li>
-    <li><strong>Code Examples:</strong> Provide code snippets to demonstrate how to load the dataset and perform basic analysis.</li>
-    <li><strong>Contribution Guidelines:</strong> Offer clear guidelines for contributing to the project.</li>
-    <li><strong>License:</strong> Clearly state the project's license.</li>
-</ul>
-
-</body>.
+</body>
