@@ -1,6 +1,6 @@
 <body>
 <h1>Retail Performance Analysis: A Super Store Case Study</h1>
-<h2>Project Overview</h2>
+<h2>Overview</h2>
 <p>
     The Super Store Sales Analysis project aims to explore and analyze sales data from a retail chain to identify key factors influencing sales performance and profitability. The project provides actionable insights to optimize business strategies across different regions and product categories.
 </p>
